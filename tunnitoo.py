@@ -5,14 +5,13 @@
 
 
 # ül.2
-# muuda oma kood nii et see küsiks kasutajalt nime ja tevitaks teda
+# muuda oma kood nii et see küsiks kasutajalt nime ja tervitaks teda
 # vihje: sisend saab kutsuda funktsiooniga input()
 # kui on vaja esitada konkreetne küsimus
 # siis selle saab sõne andmetüübina kirjutada funtsiooni sisse
 
-
-# andmetüübid- eelmises tunnis õppisime
-# kolm andmetüüpi - sõne, täisarv, ratsionaalarv ehk ujuvkomaga arv
+# ül.2.1
+# muuda oma kood nii et kasutaja ei peaks mõtlema liigsetele tühikutele ja suurele algustähele
 
 
 # ül.3.1
